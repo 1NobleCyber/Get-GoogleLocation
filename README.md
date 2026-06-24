@@ -14,4 +14,4 @@ This project is a complement to the project https://github.com/1NobleCyber/Get-A
 My interest in this endevour was started with a (now deleted) project by https://github.com/drygdryg, and Erik Rye's Blackhat talk on the subject (https://i.blackhat.com/BH-US-24/Presentations/US24-Rye-Surveilling-the-Masses-with-Wi-Fi-Positioning-Systems-Wednesday.pdf) regarding Apple's Location Services.
 
 ### Screenshots
-![Console](https://raw.githubusercontent.com/1NobleCyber/Get-GoogleLocation/master/Images/Get-GoogleLocation-SimpleExample.png)
+![Console](./Images/Get-GoogleLocation-SimpleExample.png)
